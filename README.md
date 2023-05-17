@@ -4,7 +4,7 @@
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> I’m currently working on **Natural Language Processing project**
 - 👯 I’m looking to collaborate on **Data Science, Computer Vision & AI projects**
-- 💬 Ask me about anything related to **Tech, Data Science, Machine Learning and AI**
+- 💬 Ask me about anything related to **Tech, Data Science, Machine Learning and AI** 
 - 📫 How to reach me **rubira.tech@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/hugo-rubira/](https://www.linkedin.com/in/hugo-rubira/)
 -  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact **I'm an Airplane Pilot and ❤️ Astrophysics and Space 🚀**
@@ -17,12 +17,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hlrubira&show_icons=true&count_private=true" align="center" /></div>  
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hlrubira&&style=flat-square" align="center" />
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hlrubira&&theme=" alt="hlrubira" width="50%" /></p>
+<div/>  
 </div>  
-<br />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=hlrubira&&style=flat-square" align="center" />
+</div>
 
-
-## Connect With Me
+## Connect With Me 
 
 <div align="center">
 <a href="https://github.com/hlrubira" target="_blank">
@@ -44,3 +46,4 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 
 </div>
+
