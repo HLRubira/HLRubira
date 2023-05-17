@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
-
+<p align="center">
+  <img src="https://github.com/hlrubira/hlrubira/raw/main/assets/header.github.gif" alt="Hi, I'm Hugo 👋 ">
+</p>
 
 - 🔭 I’m currently working on **Space Exploration with Python & AI**
 - 👯 I’m looking to collaborate on **Data Science & AI projects**
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hlrubira&show_icons=true&locale=en" alt="hlrubira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlrubira&" alt="hlrubira" /></p>
+
