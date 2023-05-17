@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hlrubira/hlrubira/raw/main/assets/header.github.gif" alt="Hi, I'm Hugo 👋 ">
+  <img src="https://github.com/hlrubira/hlrubira/raw/main/assets/github.header.gif" alt="Hi, I'm Hugo 👋 ">
 </p>
 
 - 🔭 I’m currently working on **Space Exploration with Python & AI**
