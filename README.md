@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/hlrubira/hlrubira/raw/main/assets/github.header.gif" alt="Hi, I'm Hugo 👋 ">
-</p>
+
+![Starlink-Header-2](https://github.com/user-attachments/assets/d25044f1-2212-444a-8990-e52b2cf0262a)
+
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> I’m currently working on **Natural Language Processing project**
 - 👯 I’m looking to collaborate on **Data Science, Computer Vision & AI projects**
@@ -43,7 +43,11 @@
   
   
 ##
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c332b2b1-af6a-43aa-9f98-253c6149307f" width="45%"/>
+</p>
+
+
 
 </div>
 
