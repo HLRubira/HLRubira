@@ -1,11 +1,11 @@
 
+### 👨‍🚀🌎🚀 From Cockpit to Code
 
-![Starlink-Header-2](https://github.com/user-attachments/assets/d25044f1-2212-444a-8990-e52b2cf0262a)
+I'm a **Data Scientist** with academic foundations in **Aeronautical Sciences** and a degree in **Systems Analysis and Development**. I specialize in extracting meaningful insights from data and transforming complex problems into efficient, data-driven solutions.
 
- 
-I'm a **Full Stack Developer** with a background in **Aeronautical Sciences** and a degree in **Systems Analysis and Development**. My mission is to build solid, efficient, and scalable software solutions that generate real impact — especially in technical and operational environments.
+Before fully transitioning into the Data Science field, I graduated from an aviation academy and built a solid career in aviation. Years of operating in high-stakes, detail-critical environments trained me to think with precision, act with discipline, and approach problems with a systems-oriented mindset — qualities I now bring to every line of code and every solution I design.
 
-Before transitioning fully into software development, I graduated from an aviation academy, became a **licensed pilot**, and cultivated a deep passion for technology, aerospace, and automation. Today, I apply the same discipline and precision learned in aviation to designing and developing complete web applications, from interface to infrastructure.
+Today, I apply that same mindset to **data analytics**, **machine learning**, and **end-to-end data pipelines** that generate impact across technical and operational domains.
 
 
 ## Connect With Me 
