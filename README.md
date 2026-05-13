@@ -2,12 +2,11 @@
 
 ### 👨‍🚀🌎🚀 From Cockpit to Code
 
-I'm a **Data Scientist** with academic foundations in **Aeronautical Sciences** and a degree in **Systems Analysis and Development**. I specialize in extracting meaningful insights from data and transforming complex problems into efficient, data-driven solutions.
+I’m a **Software Developer and AI Engineer** with academic foundations in **Aeronautical Sciences** and a degree in **Systems Analysis and Development**. I specialize in building intelligent software solutions, developing scalable systems, and applying artificial intelligence to solve complex real-world problems.
 
-Before fully transitioning into the Data Science field, I graduated from an aviation academy and built a solid career in aviation. Years of operating in high-stakes, detail-critical environments trained me to think with precision, act with discipline, and approach problems with a systems-oriented mindset — qualities I now bring to every line of code and every solution I design.
+Before transitioning fully into software and AI, I graduated from an aviation academy and built a solid career in aviation. Years of operating in high-stakes, detail-critical environments trained me to think with precision, act with discipline, and approach challenges with a systems-oriented mindset — qualities I now bring to every product I build and every technical solution I design.
 
-Today, I apply that same mindset to **data analytics**, **machine learning**, and **end-to-end data pipelines** that generate impact across technical and operational domains.
-
+Today, my work is focused on **software engineering, artificial intelligence, system architecture, and practical innovation**, transforming complex business and operational challenges into efficient, technology-driven solutions.
 
 ## Connect With Me 
 
